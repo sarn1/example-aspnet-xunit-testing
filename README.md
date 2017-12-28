@@ -6,7 +6,7 @@
 - Create the test, see `PointTests.cs`
 - Add `TreehouseDefense` as a depedencies.
 - Run test by going to `Test > Run All Test`
-- [Fact()] = attribute for xUnit unit testing framework that says that the method is a unit test.
+- `[Fact()]` = attribute for xUnit unit testing framework that says that the method is a unit test.
 
 ```csharp
 using Xunit;
