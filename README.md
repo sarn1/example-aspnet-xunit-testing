@@ -1,5 +1,7 @@
 # example-aspnet-xunit-testing
-- https://xunit.github.io/docs/getting-started-desktop.html
+https://teamtreehouse.com/library/xunitnet-unit-test-framework
+https://xunit.github.io/docs/getting-started-desktop.html
+
 - Install `xUnit` via Nuget
 - Install `xUnit.Runner.VisualStudio` Nuget
 - Click `add new project > search for xunit > xunit test project`
